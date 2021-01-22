@@ -1,15 +1,18 @@
 ---
-title: "Caramel Bottle"
+title: landing
 type: portfolio
-date: 2018-07-12T16:59:54+06:00
-description : "This is meta description"
+date: '2018-07-12T16:59:54+06:00'
+description: This is meta description
 caption: Product Design
 image: images/portfolio/item-6.jpg
-category: ["product","mockup","design"]
-liveLink: https://www.themefisher.com
+category:
+  - product
+  - mockup
+  - design
+liveLink: 'https://www.themefisher.com'
 client: Julia Robertson
-submitDate: November 20, 2017
-location: 1201 park street, Avenue, Dhaka
+submitDate: 'November 20, 2017'
+location: '1201 park street, Avenue, Dhaka'
 ---
 ### Consectur in Bibendum
 
